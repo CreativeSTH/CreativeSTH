@@ -12,11 +12,18 @@
 <!--
 **CreativeSTH/CreativeSTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## Sobre Mi
-Soy Diseñador gráfico y Desarrollador web front-end enamorado de Angular y un defensor acérrimo de TypeScript. <br>
-<p>
-Mis habiilidades
-- ⚡ JavaScript - ⚡ TypeScript - ⚡ React.js - ⚡ Angular.js - ⚡ Tailwind CSS - ⚡ CSS3 Moderno
+### ⚡ &nbsp; Sobre Mi
 
-</p>
+💡 &nbsp;Soy Diseñador gráfico y Desarrollador web front-end enamorado de Angular y un defensor acérrimo de TypeScript.\
+🎓 &nbsp;Actualmente como hobbie estoy estudiando el famoso bootcamp de Generation Colombia - Junior Unity Developer\
+✍️ &nbsp;En mi tiempo libre me gusta escribir, aporto a la comunidad con mi [Blog](https://www.reddit.com/user/creativeSTH/)\
+✉️ &nbsp;¡Contáctame sth.frontend@gmail.com 
+### ⚡ &nbsp; Habilidades
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)&nbsp;
+
+
 
