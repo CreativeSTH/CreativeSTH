@@ -14,11 +14,9 @@
 -->
 ## Sobre Mi
 Soy Diseñador gráfico y Desarrollador web front-end enamorado de Angular y un defensor acérrimo de TypeScript. <br>
+<p>
 Mis habiilidades
-- ⚡ JavaScript
-- ⚡ TypeScript
-- ⚡ React.js
-- ⚡ Angular.js
-- ⚡ Tailwind CSS
-- ⚡ CSS3 Moderno
+- ⚡ JavaScript - ⚡ TypeScript - ⚡ React.js - ⚡ Angular.js - ⚡ Tailwind CSS - ⚡ CSS3 Moderno
+
+</p>
 
