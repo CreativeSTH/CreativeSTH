@@ -11,7 +11,7 @@
 <!--
 **CreativeSTH/CreativeSTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## Sobre Mi
+## Sobre Mi  <a href="https://www.linkedin.com/in/creativesth/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 Soy Diseñador gráfico y Desarrollador web front-end enamorado de Angular y un defensor acérrimo de TypeScript. <br>
 Mis habiilidades
 - ⚡ JavaScript
