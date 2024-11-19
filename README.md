@@ -1,4 +1,5 @@
-## CreativeSTH
+<h1 align="center">CreativeSTH</h1>
+
 <h1 align="center">👋 Hola Bienvenidos, Soy Sebastian Torres✨</h1> 
 <div align="center">
 <a href="https://www.linkedin.com/in/creativesth/">
