@@ -11,7 +11,7 @@
 **CreativeSTH/CreativeSTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## Sobre Mi
-Soy Diseñador gráfico y Desarrollador web front-end enamorado de Angular y un defensor acérrimo de TypeScript. 
+Soy Diseñador gráfico y Desarrollador web front-end enamorado de Angular y un defensor acérrimo de TypeScript. <br>
 Mis habiilidades
 - ⚡ JavaScript
 - ⚡ TypeScript
