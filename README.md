@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hola Bienvenidos, Soy Sebastian Torres✨</h1> 
 <div align="center">
 <a href="https://www.linkedin.com/in/creativesth/">
-  <img src="https://i.ibb.co/ZVPcXTS/mybanner.jpg" 
+  <img src="https://i.ibb.co/ZVPcXTS/mybanner.jpg" width=1280
 </a>
 </div>
 
